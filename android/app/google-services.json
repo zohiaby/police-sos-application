@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384924328958",
+    "project_id": "community-chat-910ac",
+    "storage_bucket": "community-chat-910ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384924328958:android:a088399d0fe39907e6d6af",
+        "android_client_info": {
+          "package_name": "com.example.temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFIlk1_tPa0yO3ct-sCVVlMmTZeYuKBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
